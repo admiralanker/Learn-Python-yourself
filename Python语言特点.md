@@ -1,7 +1,7 @@
 # Python语言特点
 
 ---
-> Life is short, You need Python – Bruce Eckel/n
+> Life is short, You need Python – Bruce Eckel<br />
 > 人生苦短，我用 Python
 
  - 语法简洁，实现相同功能，代码量仅相当于其他语言的1/10~1/5
