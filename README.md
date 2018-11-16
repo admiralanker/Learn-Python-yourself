@@ -8,3 +8,5 @@ Pycharm：http://www.jetbrains.com/pycharm/?fromMenu
 
 Python官网教程：https://docs.python.org/3/tutorial/
 
+Python标准库：https://docs.python.org/3/library/
+
