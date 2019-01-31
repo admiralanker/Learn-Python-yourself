@@ -1,5 +1,5 @@
 ### PyCharm下载
-以PyCharm 2018.3.4为例，百度pycharm进入官网下载页点击Download now即可。
+以PyCharm 2018.3.4为例，百度pycharm进入官网下载页点击`Download now`即可。
 
 ### PyCharm安装
 以PyCharm 2018.3.4为例，需要注意的是安装到installation Options除系统类型其余全部勾选后继续安装
