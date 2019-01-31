@@ -20,4 +20,7 @@
 **pycharm/File/Settings/Editor里找到Color Scheme**，推荐使用`Monokai`
 
 ### PyCharm设置解释器
-File->Setting->Project:your project name->Project Interpreter->齿轮->Add Local
+File->Setting->Project:your project name->Project Interpreter->点击齿轮->Add Local
+
+### PyCharm同时加载多个项目
+File->Setting->Project->Project Structure->Add Content Root
