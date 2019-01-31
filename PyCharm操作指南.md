@@ -11,13 +11,13 @@
 粘贴注册码，点击OK。
 
 ### PyCharm主题设置
-以PyCharm 2018.3.4为例，**pycharm/File/Settings/Appearance&Behavior/Appearance**里找到`THeme`建议切换为`Darcula`
+以PyCharm 2018.3.4为例，pycharm/File/Settings/Appearance&Behavior/Appearance里找到`THeme`建议切换为`Darcula`
 
 ### PyCharm字体设置
-**pycharm/File/Settings/Editor里找到Font**，Schema切换字体后点击OK。
+pycharm/File/Settings/Editor里找到Font，Schema切换字体后点击OK。
 
 ### PyCharm代码配色方案
-**pycharm/File/Settings/Editor里找到Color Scheme**，推荐使用`Monokai`
+pycharm/File/Settings/Editor里找到Color Scheme，推荐使用`Monokai`
 
 ### PyCharm设置解释器
 File->Setting->Project:your project name->Project Interpreter->点击齿轮->Add Local
