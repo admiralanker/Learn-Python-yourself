@@ -7,4 +7,17 @@
 ### PyCharm获取并使用注册码
 更换IDE注册验证服务器地址：修改电脑中hosts文件( C:\Windows\System32\drivers\etc )大部分人因权限问题
 会卡在该步骤，找到记事本右键以管理员身份运行，添加`0.0.0.0 account.jetbrains.com`到host文件并保存，
-进入网站http://idea.lanyus.com/ 获取注册码（有效期为2018年5月5日至2019年5月4日）。
+进入网站http://idea.lanyus.com/ 获取注册码（有效期为2018年5月5日至2019年5月4日）。在激活界面选中`Activation`
+粘贴注册码，点击OK。
+
+### PyCharm主题设置
+以PyCharm 2018.3.4为例，**pycharm/File/Settings/Appearance&Behavior/Appearance**里找到`THeme`建议切换为`Darcula`
+
+### PyCharm字体设置
+**pycharm/File/Settings/Editor里找到Font**，Schema切换字体后点击OK。
+
+### PyCharm代码配色方案
+**pycharm/File/Settings/Editor里找到Color Scheme**，推荐使用`Monokai`
+
+### PyCharm设置解释器
+File->Setting->Project:your project name->Project Interpreter->齿轮->Add Local
