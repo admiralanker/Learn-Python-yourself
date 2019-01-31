@@ -7,3 +7,4 @@
 ### PyCharm获取并使用注册码
 更换IDE注册验证服务器地址：修改电脑中hosts文件( C:\Windows\System32\drivers\etc )大部分人因权限问题会卡在该步骤，找到记事本右键以管理员身份运行，
 添加<font color=red>0.0.0.0 account.jetbrains.com</font>到 host文件中，进入网站 http://idea.lanyus.com/ 获取注册码（有效期为2018年5月5日至2019年5月4日）。
+<font color=gray size=72>color=gray</font>
