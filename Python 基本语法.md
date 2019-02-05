@@ -1,4 +1,4 @@
-### Python 基本语法
+### Python 基础
 
 >Life is short, You need Python – Bruce Eckel  
 >人生苦短，我用 Python
