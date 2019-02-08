@@ -1,6 +1,6 @@
 st(开始)-->cond(循环条件)=>cond(循环条件)->cond(循环条件)=>end->
 
-```flow
+```flow js
 st=>start: Start
 e=>end: End
 op1=>operation: My Operation
