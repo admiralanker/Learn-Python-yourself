@@ -1,12 +1,12 @@
 st(开始)-->cond(循环条件)=>cond(循环条件)->cond(循环条件)=>end->
 
 ```flow js
-st=>start: Start
-e=>end: End
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes or No?
-io=>inputoutput: catch something...
+st=>start
+e=>end
+op1=>operation
+sub1=>subroutine
+cond=>condition
+io=>inputoutput
 ```
 
 st=>start:
