@@ -4,20 +4,20 @@
 
 **2.**`if`语句使用的语法：
 
-```
+```python
 if True:
-print('success')
+    print('success')
 else:
-print('fail')
+    print('fail')
 ```
 
 **3.**`else`语句：
 
-```
+```python
 if False:
-print('fail')
+    print('fail')
 else:
-print('success')
+    print('success')
 ```
 
 **4**比较运算符：
