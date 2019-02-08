@@ -10,6 +10,8 @@ Python官网教程：https://docs.python.org/3/tutorial/
 
 Python标准库：https://docs.python.org/3/library/
 
+好用的轮子：https://python-guide.gitbooks.io/python-style-guide/content/pythonic/awesome-python.html
+
 
 
 ### Python主要应用场景
