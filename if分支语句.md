@@ -2,7 +2,7 @@
 
 **1.**`bool`数据类型：真和假，只有俩个值，就是True和False。
 
-**2.**`if`语句使用的语法：
+**2.**`if`语句使用：
 
 ```python
 if True:
@@ -11,7 +11,7 @@ else:
     print('fail')
 ```
 
-**3.**`else`语句：
+`else`：
 
 ```python
 if False:
@@ -20,6 +20,3 @@ else:
     print('success')
 ```
 
-**4.**&nbsp;比较运算符：
-
-a == b
