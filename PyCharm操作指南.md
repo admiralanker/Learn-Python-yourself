@@ -11,7 +11,7 @@
 粘贴注册码，点击OK。
 
 ### PyCharm主题设置
-以PyCharm 2018.3.4为例，pycharm/File/Settings/Appearance&Behavior/Appearance里找到`THeme`建议切换为`Darcula`
+以PyCharm 2018.3.4为例，pycharm/File/Settings/Appearance&Behavior/Appearance里找到`THeme`建议切换为`Darcula` <font color=White>Microsoft YaHei UI</font>
 
 ### PyCharm字体设置
 pycharm/File/Settings/Editor里找到Font，Schema切换字体后点击OK。
