@@ -16,6 +16,7 @@
 
 ### PyCharm字体设置
 pycharm/File/Settings/Editor里找到Font，Schema切换字体后点击OK。
+droid Sans Mono Slashed&nbsp;&nbsp;&nbsp;&nbsp;18
 
 ### PyCharm代码配色方案
 pycharm/File/Settings/Editor里找到Color Scheme，推荐使用`Monokai`
